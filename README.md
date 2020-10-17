@@ -1,3 +1,4 @@
 # TJLCT-DataAnalytics-Basic-Practice-problems
-ritika jaiswal
-2nd year 
+I have learned in this project about basic of data analysis .
+
+
